@@ -1,0 +1,195 @@
+.top {
+	display: flex;
+	background-color: #CC0000;
+	margin-left: auto;
+	margin-right: auto ;
+	width: 100%;
+	height: 20%;
+	box-shadow: 25px 0px 20px 60px #CC0000;
+	text-align: center;
+}
+
+.top h1 {
+	font-size: 24px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: white;
+	text-transform: uppercase;
+  margin-left: 600px;
+	text-decoration: none;
+}
+
+ a {
+	text-decoration: none;
+}
+
+#caixa{
+	margin-left: 20px;
+	width: 350px;
+	height: 320px;
+	align-items: center;
+	box-sizing: border-box; 
+  border: 2px solid #000000;
+  border-radius: 10px;
+	box-sizing: border-box; 
+	padding: 15px;
+	text-decoration: none;
+/* 	-webkit-border-radius: 50px;
+	 -moz-border-radius: 50px; */
+
+  margin-top: 120px;
+}
+#caixa:hover {
+	border: 2px solid #CC0000;
+	box-sizing: border-box; 
+  border-radius: 10px;
+	box-shadow: 1px 1px 10px 0px #CC0000;
+
+}
+
+#caixa a {
+	text-decoration: none;
+}
+
+.noticion {
+	display: flex;
+	
+}
+
+hr {
+	border: 21px solid #CC0000;
+	box-sizing: border-box; 
+  border-radius: 10px;
+	box-shadow: 1px 5px 10px 0px #CC0000;
+}
+
+#grad {
+	display: flex;
+	background-color: white;
+	width: 100%;
+	height: 60%;
+	vertical-align: center;
+	margin-top: 20px;
+	padding: 20px;
+
+	border: 1px solid #CC0000;
+	box-sizing: border-box; 
+  border-radius: 10px;
+	box-shadow: 1px 1px 10px 0px #CC0000;
+	
+}
+
+#grad h1 {
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+#grad p{
+	padding-left: 40px;
+	font-size: 24px;
+	width: 70%;
+text-align: justify;
+}
+
+#mapa {
+	margin-top: 50px;
+	text-align: center;
+}
+
+iframe {
+	border: 1px solid #CC0000;
+	box-sizing: border-box; 
+  border-radius: 10px;
+	box-shadow: 1px 1px 40px 1px #CC0000;
+}
+
+footer {
+	margin-top: 30px;
+
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 12px;
+	padding: 20px;
+	background-color: #CC0000;
+
+	border: 1px solid #CC0000;
+	box-sizing: border-box; 
+  border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #CC0000;
+}
+
+footer h4 {
+ 	display: flex;
+	color: white;
+	align-items: center;
+	margin-left: 40%;
+}
+
+
+
+
+
+
+.arrend{
+	border-radius:10px;
+}
+ 
+#caixa2{
+	display: inline;
+	width: 350px;
+	height: 300px;
+	background: white;
+	border-radius: 50px;
+	margin: 10px;
+	border-radius: 10px 50px 80px 100px;
+}
+
+degrade e transparencia
+/* #caixa{
+	width: 300px;
+	height: 300px;
+	background: url("camera.png");
+
+
+	} */
+	 
+	
+ 
+#caixa h1{
+/* 	background: rgb(255, 0, 0); */
+/* 	background: rgba(255, 255, 0, 0.5); */
+text-decoration: none;
+
+}
+
+
+gradiente
+ 
+
+
+/*sombra*/
+ 
+/* #caixa{
+	margin-top: 1200px;
+	width: 300px;
+	height: 300px;
+	padding: 8px;
+	margin: 20px;
+	background: #009670;
+} */
+
+ #caixa h1{
+/*  	color: white; */
+ 	/*primeiro valor horizontal e segundo vertical
+ 	positivo posiciona para cima, negativo para baixo*/
+ 	/*text-shadow: 0px -20px blue;
+ 	/*terceiro valor é funciona como um borrão no elemento*/
+/*  	text-shadow: 20px 20px 10px black; */
+ 	/* rgba(255, 255, 0, 0.6);*/
+ 
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ #caixa h1:hover{
+	color: #CC0000;
+
+
+ }
